@@ -17,6 +17,4 @@ I received a working arkanoid clone. My job was to implement Data persistance be
     
     (That is handled by MainManager script)
   
-![menu](https://user-images.githubusercontent.com/94176489/178108931-3b47aa74-99a8-40d9-aab6-f8ed32939030.jpg)
-
-![game](https://user-images.githubusercontent.com/94176489/178108948-753a31e2-573d-4ab6-aa07-bb7e76c27dc2.jpg)
+![menu](https://user-images.githubusercontent.com/94176489/178108931-3b47aa74-99a8-40d9-aab6-f8ed32939030.jpg)![game](https://user-images.githubusercontent.com/94176489/178108948-753a31e2-573d-4ab6-aa07-bb7e76c27dc2.jpg)
