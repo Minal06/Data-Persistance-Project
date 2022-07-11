@@ -11,7 +11,7 @@ I received a working arkanoid clone. My job was to implement Data persistance be
     (Please check StartMenu script)
   
 * High score (saving data between sessions):
-  * As the user plays, the current high score is displayed on the screen alongside the player name who created the score.
+  * As the user plays, the current high score is displayed on the screen alongside the player name who got the score.
   * If the high score is beaten, the new score and player name will be displayed instead.
   * The highest score is saved between sessions, so that if the player closes and reopens the application, the high score and player name are retained.
     
